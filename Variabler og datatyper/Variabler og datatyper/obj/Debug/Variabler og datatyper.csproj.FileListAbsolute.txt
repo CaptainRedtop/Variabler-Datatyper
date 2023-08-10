@@ -1,0 +1,8 @@
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\bin\Debug\Variabler og datatyper.exe.config
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\bin\Debug\Variabler og datatyper.exe
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\bin\Debug\Variabler og datatyper.pdb
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\obj\Debug\Variabler og datatyper.csproj.AssemblyReference.cache
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\obj\Debug\Variabler og datatyper.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\obj\Debug\Variabler og datatyper.csproj.CoreCompileInputs.cache
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\obj\Debug\Variabler og datatyper.exe
+C:\Users\zbc23nksk\source\repos\Variabler og datatyper\Variabler og datatyper\obj\Debug\Variabler og datatyper.pdb
